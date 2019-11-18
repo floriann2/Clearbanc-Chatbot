@@ -1,5 +1,7 @@
 # Clearbanc Chatbot
 ---
+URL: https://clearbanc.floriann25.now.sh/
+
 ## Inspiration:
 
 In addition to the take-home assessment given after the initial interview, I decided to create an interactive component to the project. 
